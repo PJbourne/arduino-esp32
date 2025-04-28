@@ -36,7 +36,7 @@ Currently, this example supports the following targets.
 
 How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
 
-* In the file `secrets.h` you can add the home Wi-Fi network name ans password.
+* In the file `secrets.h` you can add the home Wi-Fi network name and password.
 * Compile and upload to the device.
 * Have a look into the monitoring output.
 * Open <http://webserver> or <http://(ip-address)> using a browser.
